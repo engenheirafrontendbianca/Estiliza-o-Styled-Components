@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "styled-components": "^5.3.10"
+  },
+
+  "scripts": {
+    "start": "react-scripts start"
+  }
+  
+}
+
+
